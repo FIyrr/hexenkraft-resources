@@ -1,0 +1,6 @@
+{
+    "language.name": "English",
+    "language.region": "United States",
+    "language.code": "en:us",
+    "icon.hexenkraft.pulsating_orb": "{\"sprite\":\"hexenkraft:mana_point_pulsating\",atlas:\"minecraft:gui\"}"
+}
